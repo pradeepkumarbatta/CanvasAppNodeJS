@@ -2,7 +2,7 @@
     "name": "utility-app",
     "version": "0.0.1",
     "dependencies": {
-        "express": "3.3.x",
+        "express": "4.17.x",
         "ejs": "*"
     },
     "engines": {
